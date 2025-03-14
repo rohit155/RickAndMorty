@@ -37,7 +37,16 @@ This is a **Rick and Morty character browser app** that allows users to explore 
 ✅ **Image caching** to reduce unnecessary network requests  
 
 ### **📷 Screenshots**
-*(Add some screenshots of the app here!)*
+#### Home Screen
+![Launch Screen](Screenshots/1.png)
+
+#### Home Screen
+![Home Screen List](Screenshots/2.png)
+
+![Home Screen Collection](Screenshots/3.png)
+
+#### Character Details
+![Character Details](Screenshots/4.png)
 
 ### **🛠️ Installation**
 1. Clone the repository:
